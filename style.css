@@ -1,0 +1,26 @@
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #2ECC40;
+  background-color: #101010;
+}
+
+main {
+  margin: auto;
+  width: 200px;
+}
+
+h1 {
+  font-style: italic;
+  border-right: 1px solid red;
+  filter: blur(1px);
+}
+
+p {
+  letter-spacing: 0.08rem;
+}
+
+.wavy {
+  border: 1px solid red;
+  filter: url(./wavves.svg#filt);
+  padding: 60px;
+}
