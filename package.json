@@ -1,0 +1,22 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "Welcome to Glitch =================",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Objelisks/website5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Objelisks/website5/issues"
+  },
+  "homepage": "https://github.com/Objelisks/website5#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
