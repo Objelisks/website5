@@ -21,6 +21,7 @@ p {
 .wavy {
   border-top: 1px solid red;
   filter: url(./wavves.svg#filt);
+  height: 5px;
   margin-left: -150px;
   width: 500px;
 }
